@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(221, 204, 140);
+}
+h2{
+    text-align:center;
+    font-size: 40px;
+    padding: 10px;
+
+}
+.cla-main-div{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 340px;
+    box-shadow: 0 4px 8px orange;
+    font-size: 0;
+    transition: 0.3s;
+    
+    
+}
+.cla-main-div:hover{
+    box-shadow: 0 8px 16px orange;
+}
+.cal-head #cal-dis{
+    width: 330px;
+    height:100px;
+    background-color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 3px;
+    letter-spacing: 3px;
+    border: none;
+
+}
+.cal-btn{
+
+}
+.cal-body{
+    
+    
+}
+.btn{
+    width: 84px;
+    height: 50px;
+    font-size: 35px;
+    background-color: rgb(15, 131, 232);
+    
+}
+.btn:hover{
+    background-color: rgb(4, 4, 4);
+    color: white;
+}
+.back{
+    background-color: aqua;
+}
+.back2{
+    background-color: rgb(74, 74, 242);
+}
